@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary files
+temp/
+*.tmp
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Bible source files
+*.bblx
+*.zip
+
+# OS specific
+.DS_Store
+Thumbs.db 
